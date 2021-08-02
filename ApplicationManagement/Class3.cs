@@ -2,7 +2,7 @@
 
 namespace ApplicationManagement
 {
-    public class Class2
+    public class Class3
     {
     }
 }
